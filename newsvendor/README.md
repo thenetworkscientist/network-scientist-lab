@@ -52,9 +52,9 @@ profit        = Cu * mu - [Co * leftovers + Cu * missed sales]
 - Baking the average (100) instead of Q* costs $6.49 a day, about $2,370 a year, for this one product.
 - Halving sigma halves the mismatch cost ($25.42 to $12.71 a day): the cost of uncertainty is proportional to sigma.
 
-| | |
-|---|---|
-| ![](fig2_margin.png) | ![](fig3_two_fixes.png) |
+![Best amount to bake as the price changes](fig2_margin.png)
+
+![Cheaper leftovers mean more leftovers; better forecasts mean fewer](fig3_two_fixes.png)
 
 ## Limits (read these)
 - One product, one day, no substitutes, no customer goodwill. Real bakeries also care about regulars and full shelves.
@@ -66,4 +66,3 @@ profit        = Cu * mu - [Co * leftovers + Cu * missed sales]
 - Schweitzer, M. E., & Cachon, G. P. (2000). Decision Bias in the Newsvendor Problem with a Known Demand Distribution: Experimental Evidence. *Management Science*, 46(3), 404-420.
 
 MIT licensed (see the LICENSE file at the top of this repository). The Network Scientist.
-
