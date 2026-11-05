@@ -1,6 +1,6 @@
 # The Network Scientist Lab
 
-Small, honest simulations behind The Network Scientist's videos and Medium articles.
+Small, honest simulations behind The Network Scientist's videos and Substack articles.
 Each folder is one topic: the code reproduces every number we computed ourselves, with the assumptions written down.
 
 | Topic | What it shows | Article |
