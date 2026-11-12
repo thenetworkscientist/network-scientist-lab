@@ -16,7 +16,6 @@ pip install -r requirements.txt
 python check_math.py      # checks every number three ways; ends with "All checks passed."
 python queueing_model.py  # prints every number used in the video and article
 python make_figures.py    # redraws the four charts
-python make_cover.py      # redraws the article cover
 ```
 
 ## The model, in plain words
