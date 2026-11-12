@@ -14,6 +14,7 @@ python bullwhip.py --lead-time 4    # longer lead time
 python bullwhip.py --share-data     # everyone forecasts from real shopper sales
 python bullwhip.py --no-sale        # plain random demand
 python make_charts.py               # redraws the three charts
+python check_math.py                # checks the quoted numbers; ends with "All checks passed."
 ```
 
 Default output:
