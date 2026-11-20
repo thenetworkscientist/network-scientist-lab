@@ -10,6 +10,7 @@ Each folder is one topic: the code reproduces every number we computed ourselves
 | [Safety stock and risk pooling](safety-stock/) | Why one shared pool of spares needs far fewer than many private ones, and how linked bad days shrink the saving | [Read on Substack](https://thenetworkscientist.substack.com/p/why-sharing-spare-parts-beats-hoarding) |
 | [Little's Law](littles-law/) | Arrivals × stay gives 100 beds in use; a bed on 95% of days needs 117; cut to 105 and half the patients board in the ER | [Read on Substack](https://thenetworkscientist.substack.com/p/how-does-a-hospital-know-how-many) |
 | [Queueing and utilization](queueing/) | Why waits explode as a server gets busier, checked three ways | [Read on Substack](https://thenetworkscientist.substack.com/p/why-the-line-doubles-when-the-barista) |
+| [Economic order quantity](economic-order-quantity/) | Why one 30-roll pack fits most homes: the flat-bottomed cost curve and the square-root rule, checked three ways | [Read on Substack](https://thenetworkscientist.substack.com/p/why-costco-makes-you-buy-30-rolls) |
 
 ## How to use any folder
 ```bash
